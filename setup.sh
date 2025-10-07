@@ -1,0 +1,2 @@
+source /cvmfs/sft.cern.ch/lcg/views/setupViews.sh LCG_108 x86_64-el9-gcc13-opt
+export RAPIDSIM_ROOT=$(pwd)
